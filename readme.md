@@ -22,7 +22,7 @@ This repository contains a smart contract implementation for Non-Fungible Tokens
 - Blockchain L1/2 🌍: Compatible with Ethereum EVM blockchain networks.
 </details>
 <details>
-<summary> 
+</summary> 
 
 ## Installation 📥
 </summary>
